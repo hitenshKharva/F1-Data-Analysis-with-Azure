@@ -1,4 +1,4 @@
-# F1 Data Analysis with Azure DataBricks
+# F1 Data Analysis with Azure
 
 ## Problem Statement
 To design and orchestrate a Data Pipeline using Databricks and Azure to perform analysis and visualization on Formula 1 race results.
